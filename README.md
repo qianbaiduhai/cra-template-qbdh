@@ -3,11 +3,17 @@
 基于 CRA 创建的模版
 
 项目结构
+
 @types: 全局 ts/第三方库 ts 补充
+
 assets: 静态资源
+
 components: 基础组件
+
 containers: 业务代码
+
 containers/shared: 业务代码组件
+
 containers/view: 业务页面
 
 feature:
