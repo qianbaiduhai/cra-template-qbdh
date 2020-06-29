@@ -20,5 +20,8 @@
     "files": [
         "template",
         "template.json"
-    ]
+    ],
+    "dependencies": {
+        "prettier": "^2.0.5"
+    }
 }
